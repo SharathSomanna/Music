@@ -28,7 +28,6 @@
 
 ## About The Project
 
-[![Chillypopper][product-screenshot]](https://example.com)
 
 This was a weekend project that I created while learning the popular javascript framework, React. Feel free to fork this project and add your own stuff to it.
 
